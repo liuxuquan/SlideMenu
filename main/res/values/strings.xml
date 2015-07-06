@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SlideMenuTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_section1">title_section1</string>
+    <string name="title_section2">title_section2</string>
+    <string name="title_section3">title_section3</string>
+
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="left_and_right">Left and Right</string>
+    <string name="demo_1">通过改变不同的值来改变滑动菜单不同的效果，可以设置的值有：\n1. 设置滑动菜单显示的位置（左边、右边或者左右两边都有）；\n2. 设置触摸屏幕的模式（全屏触摸打开滑动菜单、边缘触摸打开滑动菜单或者触摸不能打开滑动菜单）；\n2. 设置滑动菜单滑动时缩放的效果以及关闭此效果（值越大效果越明显）；\n4. 设置滑动菜单滑动时的阴影效果以及关闭此效果（值越大效果越明显）；\n5. 设置滑动菜单滑动时渐入渐出的效果（值越大效果越明显）。</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_SlidingMenuActivity_1">SlidingMenuActivity_1</string>
+    <string name="title_SlidingMenuActivity_2">SlidingMenuActivity_2</string>
+    <string name="title_SlidingMenuActivity_3">SlidingMenuActivity_3</string>
+    <string name="title_SlidingMenuActivity_4">SlidingMenuActivity_4</string>
+    <string name="title_SlidingMenuActivity_5">SlidingMenuActivity_5</string>
+    <string name="title_SlidingMenuActivity_6">SlidingMenuActivity_6</string>
+    <string name="title_SlidingMenuActivity_7">SlidingMenuActivity_7</string>
+
+</resources>
